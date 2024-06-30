@@ -1,4 +1,4 @@
-# CG-CBITInternship-2 (ROLL NO 160121737203)
+# World Test Championship Landing Page
 
 <h2> Task 4 (07 Jun 23)</h2>
 Responsive Website on WTC made using HTML, CSS, Bootstrap and a bit of JS. (Open 'index.html')
