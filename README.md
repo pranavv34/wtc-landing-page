@@ -2,4 +2,4 @@
 
 Responsive Website on WTC made using HTML, CSS, Bootstrap and a bit of JS. (Open 'index.html')
 <br>
-Live Demo : https://pranavv34.github.io/CG-CBITInternship-2/
+Live Demo : [https://wtc-landing-page.vercel.app](https://wtc-landing-page.vercel.app/)
